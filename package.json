@@ -17,7 +17,7 @@
     "url": "git://github.com/Prezentor/mongoose-path-tree.git"
   },
   "main": "index.js",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "engine": "node >= 0.8.0",
   "devDependencies": {
     "async": "0.x.x",
