@@ -8,7 +8,7 @@ Version with all collected features and fixes from mongoose-tree, mongoose-tree-
 
 Install via NPM
 
-    $ npm install mongoose-path-tree
+    $ npm install mongoose-path-tree-ng
 
 ## Options
 
