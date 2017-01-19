@@ -6,17 +6,18 @@
     "Tomáš Holas <tomas.holas@gmail.com>",
     "Oleg Butovich <obutovich@gmail.com>",
     "Jake Dempsey <angelo0000@gmail.com>",
-    "Alban Escalier (DaWyz)"
+    "Alban Escalier (DaWyz)",
+    "Roman Morohovski (modelfak)"
   ],
-  "name": "mongoose-path-tree",
+  "name": "mongoose-path-tree-ng",
   "description": "Maintaied version of materialized path hierarchy for mongoose with reparent option",
-  "homepage": "https://github.com/swayf/mongoose-path-tree",
+  "homepage": "https://github.com/Prezentor/mongoose-path-tree",
   "repository": {
     "type": "git",
-    "url": "git://github.com/swayf/mongoose-path-tree.git"
+    "url": "git://github.com/Prezentor/mongoose-path-tree.git"
   },
   "main": "index.js",
-  "version": "1.3.5",
+  "version": "0.0.1",
   "engine": "node >= 0.8.0",
   "devDependencies": {
     "async": "0.x.x",
