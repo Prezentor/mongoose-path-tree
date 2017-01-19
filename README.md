@@ -1,14 +1,15 @@
-## mongoose-path-tree
+## mongoose-path-tree-ng
 [![Build Status](https://travis-ci.org/swayf/mongoose-path-tree.png)](https://travis-ci.org/swayf/mongoose-path-tree)
 
 Implements the materialized path strategy with cascade child re-parenting on delete for storing a hierarchy of documents with mongoose
-Version with all collected features and fixes from mongoose-tree, mongoose-tree-fix, mongoose-tree2, mongoose-reparenting-tree
+Version with all collected features and fixes from mongoose-tree, mongoose-tree-fix, mongoose-tree2, mongoose-reparenting-tree. 
+Added  mongoose 4.7.x support
 
 # Usage
 
 Install via NPM
 
-    $ npm install mongoose-path-tree-ng
+    $ npm install mongoose-path-tree-ng --save
 
 ## Options
 
